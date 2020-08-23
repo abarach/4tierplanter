@@ -1,12 +1,8 @@
 # 4 Tier Cedar Planter
 
-As a quarantine project in May 2020, my boyfriend and I built a custom planter for indoor or outdoor use. Comments on the original post from r/gardening requested design details so I've cleaned up our basic design into a SolidWorks assembly so others can recreate/modify the design for their own use. Pictures of the original construction can be found in ```/images```
+As a quarantine project in May 2020, my boyfriend and I built a custom planter for indoor or outdoor use. Comments on the original post from r/gardening ([here](https://www.reddit.com/r/gardening/comments/idvsy0/finally_finished_my_indooroutdoor_planter_i_built/)) requested design details so I've cleaned up our basic design into a SolidWorks assembly so others can recreate/modify the design for their own use. Pictures of the original construction can be found in ```/images```.
 
-## Organization
-
-The next section will give vague (but hopefully helpful) instructions on how to go about building the planter. These steps are intended as a guide for where to start and what order to build in. This process is by no means the best, but worked for us in the original construction. 
-
-The following section will provide a directory structure of each part file as well as what component of the planter it belongs to. 
+This design is original so please be respectful of my work and cite me where appropriate. Feel free to use this design, recreate, modify, and improve on it for personal use. Any suggestions to the repository can be made through a pull request. If you enjoyed this design/project and would like/are able to contribute, please donate via Venmo to @abarach. 
 
 ## Specifications
 - Height: 40.25"
@@ -40,5 +36,5 @@ This section will give vague (but hopefully helpful) instructions on how to go a
 12. Align the boxes on top of each other and fasten the diagonal rails to the sides of the boxes. Screw the two rails together at the top (you'll need to either use shorter screws or cut the screw down so it doesn't stick out). Finally, attach the vertical rails to the shelf edges on each box.
 13. Slide the water tray into the grooves below the bottom tier. 
 
-## Author
-abarach
+## Future work
+This repository contains only the 3D model so to build each piece, you'll need to open the assembly file in SolidWorks and measure the pieces there. Future work is to create drawings for each piece (contributions welcome).
