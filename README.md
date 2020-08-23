@@ -18,7 +18,7 @@ The following section will provide a directory structure of each part file as we
 - Wood: Cedar (four 1x8 8ft and three 1x2 8ft boards), four 2'x2' 1/8" plywood boards
 - Fasteners: 1.5" Brass wood screws (cut or ground down as needed), 1.5" pneumatic nails, and 0.25-0.50" staples
 - Liners: [Haultail 7 MIL 42 gallon woven polyproplyene contractor bag](https://www.lowes.com/pd/Haultail-Woven-Contractor-Bag-20-Pack-42-Gallon-White-Polypropylene-Construction-Trash-Bag/1000812566)
-- Water tray: 11.5" painter tray ([here](https://www.lowes.com/pd/Less-Mess-15-5-in-x-11-5-in-Disposable-Paint-Tray/3371172)
+- Water tray: 11.5" painter tray ([here](https://www.lowes.com/pd/Less-Mess-15-5-in-x-11-5-in-Disposable-Paint-Tray/3371172))
 - Sandpaper
 - Clear polyurethane (or the stain/varnish of your choice)
 
